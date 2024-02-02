@@ -1,0 +1,9 @@
+Ohjelmoinnin syvent‰v‰t tekniikat, huomiot ja oppimiset
+
+
+
+2.2.2024
+Github tuotti ongelmaa, piti tutkiskella Branchien toimintaa. Nyt on siistiss‰ paketissa.
+
+Opetusmateriaali tuotti v‰h‰n p‰‰nvaivaa ja t‰ll‰ viikolla oli huonosti aikaa, niin viikkopalautukset j‰iv‰t v‰h‰iseksi. Yrit‰n katsoa viikonloppuna Java materiaalia tarkemmin.
+
